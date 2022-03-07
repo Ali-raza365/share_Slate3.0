@@ -38,6 +38,7 @@ const HomeStack = () => {
                 name='home'
                 component={Home}
                 options={{
+                    show: false,
                     headerTitle: 'Home',
                     headerLeft: () => (
                         <DrawerButton />
