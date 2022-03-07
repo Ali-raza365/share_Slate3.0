@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "835332221375",
+    "project_id": "invoicemate-cc07d",
+    "storage_bucket": "invoicemate-cc07d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835332221375:android:2311fecdeda2354261590a",
+        "android_client_info": {
+          "package_name": "com.spl.invoicemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835332221375-957ukunnpe43e3om79oe46iimnkg2mvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa5JEYoeqHmbDr2xXBjR0UVmuK0jG6KaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835332221375-957ukunnpe43e3om79oe46iimnkg2mvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835332221375-2a3a205n3d22h6h09jpcrem25d88dhvj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spl.invoicemate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
